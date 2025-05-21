@@ -14,7 +14,7 @@ Contains exploratory data analysis, dimensionality reduction, multivariate stati
 - Forest Fire Analysis
 - Ozone Level Study
 - PCA for Dimensionality Reduction
-- Multivariate Data Analysis (TA2)
+- Multivariate Data Analysis 
 - Interactive Visualizations using Bokeh
 (Datasets not included)
 ---
