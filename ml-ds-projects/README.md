@@ -16,10 +16,7 @@ Contains exploratory data analysis, dimensionality reduction, multivariate stati
 - PCA for Dimensionality Reduction
 - Multivariate Data Analysis (TA2)
 - Interactive Visualizations using Bokeh
-
-### 2. `ML_Projects/`
-This folder is reserved for future machine learning models and predictive analysis notebooks.
-
+(Datasets not included)
 ---
 
 ## 🧰 Tools Used
@@ -40,4 +37,4 @@ jupyter notebook
 ---
 
 ## 📄 License
-Licensed under MIT. Cite if used.
+Licensed under MIT.
