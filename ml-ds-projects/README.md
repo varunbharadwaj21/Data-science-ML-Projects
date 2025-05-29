@@ -16,6 +16,8 @@ Contains exploratory data analysis, dimensionality reduction, multivariate stati
 - PCA for Dimensionality Reduction
 - Multivariate Data Analysis (playstore)
 - Interactive Visualizations using Bokeh
+- Tensorflow{Ann}
+- K means 
 
 ---
 (Datasets not included for any notebooks)
