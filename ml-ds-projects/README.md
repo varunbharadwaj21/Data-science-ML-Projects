@@ -6,7 +6,7 @@ This repository includes hands-on projects in **Data Science** and **Machine Lea
 
 ## 📁 Folders Overview
 
-### 1. `Data_Science_Projects/`
+### 1. `Data Science & Machine Learning Projects `
 Contains exploratory data analysis, dimensionality reduction, multivariate statistics, and interactive visualizations using tools like Matplotlib, Seaborn, and Bokeh.
 
 **Projects:**
