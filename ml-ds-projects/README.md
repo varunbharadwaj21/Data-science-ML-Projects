@@ -17,7 +17,8 @@ Contains exploratory data analysis, dimensionality reduction, multivariate stati
 - Multivariate Data Analysis (playstore)
 - Interactive Visualizations using Bokeh
 - Tensorflow{Ann}
-- K means 
+- K means
+- Keras
 
 ---
 (Datasets not included for any notebooks)
